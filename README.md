@@ -36,4 +36,4 @@ To run the application, use the following command:
 streamlit run Health_Guard_App.py
 or
 
-TRY [🩺Health Guard](https://healthguard1.streamlit.app/)
+TRY [Health Guard](https://healthguard1.streamlit.app/)
