@@ -34,6 +34,7 @@ Health Guard is an AI-powered application designed to help users predict and mon
 To run the application, use the following command:
 ```sh
 streamlit run Health_Guard_App.py
-or
+```
 
-TRY [Health Guard](https://healthguard1.streamlit.app/)
+"Your health is your wealth! 🌟
+Try [🩺Health Guard](https://healthguard1.streamlit.app/)
