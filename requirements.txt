@@ -2,5 +2,4 @@ joblib==1.2.0
 pandas==2.0.3
 streamlit==1.40.2
 streamlit_option_menu==0.4.0
-distutils
-
+pip>=25.0.1
